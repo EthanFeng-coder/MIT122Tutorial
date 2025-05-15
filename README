@@ -1,4 +1,5 @@
-# run the docker whole docker for the server should be serve in port 8001
+system require docker and docker compose
+# run the docker whole docker for the server should be serve in port 8001 under tutroial-server for post and get request tutorial 
 docker compose up
 #sample txt for recording
     {
@@ -10,3 +11,7 @@ docker compose up
         "token_expiry": "",
         "device_fingerprint": ""
     },
+# sqldocker login
+mysql -h 127.0.0.1 -P 3306 -u root -p
+# in  lamp-docker file for sql and php 
+docker compose up
