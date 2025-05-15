@@ -1,2 +1,3 @@
 # Ignore the data folder inside app
 /app/data/
+/app/student_access_log_G3.txt

@@ -1,0 +1,12 @@
+# run the docker whole docker for the server should be serve in port 8001
+docker compose up
+#sample txt for recording
+    {
+        "timestamp": "",
+        "student_id": "123456",
+        "client_ip": "",
+        "user_agent": "",
+        "token": "",
+        "token_expiry": "",
+        "device_fingerprint": ""
+    },
